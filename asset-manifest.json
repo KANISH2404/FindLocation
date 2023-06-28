@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KANISH2404/FindLocation.git/static/css/main.c310c51b.css",
+    "main.js": "/KANISH2404/FindLocation.git/static/js/main.b5fc7be9.js",
+    "static/media/north.jpg": "/KANISH2404/FindLocation.git/static/media/north.39cef9a6d283e0b41598.jpg",
+    "static/media/south.jpg": "/KANISH2404/FindLocation.git/static/media/south.0b368064f8df6132e201.jpg",
+    "index.html": "/KANISH2404/FindLocation.git/index.html",
+    "main.c310c51b.css.map": "/KANISH2404/FindLocation.git/static/css/main.c310c51b.css.map",
+    "main.b5fc7be9.js.map": "/KANISH2404/FindLocation.git/static/js/main.b5fc7be9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c310c51b.css",
+    "static/js/main.b5fc7be9.js"
+  ]
+}
